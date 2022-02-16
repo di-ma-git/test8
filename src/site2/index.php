@@ -1,0 +1,4 @@
+Second site!
+<?php
+
+phpinfo();
